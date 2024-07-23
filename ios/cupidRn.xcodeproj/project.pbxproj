@@ -14,6 +14,12 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-cupidRn-cupidRnTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-cupidRn-cupidRnTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		0F084844643F44F3B68AA855 /* SpaceMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 55B0EF94F9A44FD4BD4DBA53 /* SpaceMono-Regular.ttf */; };
+		FD764168ABC3412BB9E491E3 /* SFProBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4F33F37CE492434D8C7CCF2F /* SFProBold.otf */; };
+		3503527E92B84BE78BA20178 /* SFProMedium.otf in Resources */ = {isa = PBXBuildFile; fileRef = B4E7D6F821144D619A6A6CB1 /* SFProMedium.otf */; };
+		3A23D8CD92E3443F90BD53CE /* SFPro.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54C21348A30C43F7BF23A4DF /* SFPro.ttf */; };
+		6205F074CFB24920961E6857 /* Syncopate.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 893176D1DE1D4C4497071A9A /* Syncopate.ttf */; };
+		15FEF45DEC634F4BA4BC6CA1 /* SyncopateBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B24DC346041D48539417F50A /* SyncopateBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +42,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = cupidRn/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = cupidRn/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = cupidRn/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = cupidRn/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = cupidRn/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-cupidRn-cupidRnTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-cupidRn-cupidRnTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-cupidRn.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cupidRn.debug.xcconfig"; path = "Target Support Files/Pods-cupidRn/Pods-cupidRn.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-cupidRn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cupidRn.release.xcconfig"; path = "Target Support Files/Pods-cupidRn/Pods-cupidRn.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +51,12 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = cupidRn/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-cupidRn-cupidRnTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cupidRn-cupidRnTests.release.xcconfig"; path = "Target Support Files/Pods-cupidRn-cupidRnTests/Pods-cupidRn-cupidRnTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		55B0EF94F9A44FD4BD4DBA53 /* SpaceMono-Regular.ttf */ = {isa = PBXFileReference; name = "SpaceMono-Regular.ttf"; path = "../assets/fonts/SpaceMono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4F33F37CE492434D8C7CCF2F /* SFProBold.otf */ = {isa = PBXFileReference; name = "SFProBold.otf"; path = "../assets/fonts/SFProBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B4E7D6F821144D619A6A6CB1 /* SFProMedium.otf */ = {isa = PBXFileReference; name = "SFProMedium.otf"; path = "../assets/fonts/SFProMedium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		54C21348A30C43F7BF23A4DF /* SFPro.ttf */ = {isa = PBXFileReference; name = "SFPro.ttf"; path = "../assets/fonts/SFPro.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		893176D1DE1D4C4497071A9A /* Syncopate.ttf */ = {isa = PBXFileReference; name = "Syncopate.ttf"; path = "../assets/fonts/Syncopate.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B24DC346041D48539417F50A /* SyncopateBold.ttf */ = {isa = PBXFileReference; name = "SyncopateBold.ttf"; path = "../assets/fonts/SyncopateBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +136,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				94008FDB71DE491DB5B5A8A4 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +162,20 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		94008FDB71DE491DB5B5A8A4 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				55B0EF94F9A44FD4BD4DBA53 /* SpaceMono-Regular.ttf */,
+				4F33F37CE492434D8C7CCF2F /* SFProBold.otf */,
+				B4E7D6F821144D619A6A6CB1 /* SFProMedium.otf */,
+				54C21348A30C43F7BF23A4DF /* SFPro.ttf */,
+				893176D1DE1D4C4497071A9A /* Syncopate.ttf */,
+				B24DC346041D48539417F50A /* SyncopateBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +272,12 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				0F084844643F44F3B68AA855 /* SpaceMono-Regular.ttf in Resources */,
+				FD764168ABC3412BB9E491E3 /* SFProBold.otf in Resources */,
+				3503527E92B84BE78BA20178 /* SFProMedium.otf in Resources */,
+				3A23D8CD92E3443F90BD53CE /* SFPro.ttf in Resources */,
+				6205F074CFB24920961E6857 /* Syncopate.ttf in Resources */,
+				15FEF45DEC634F4BA4BC6CA1 /* SyncopateBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
